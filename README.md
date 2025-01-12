@@ -43,6 +43,15 @@ How many unique customers are there in each city who have purchased coffee produ
    
 Find each city and their average sale per customer and avg rent per customer
 
+9. Monthly Sales Growth
+    
+Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+
+10. Market Potential Analysis
+    
+Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
+
+
 
 Recommendations:
 
@@ -101,8 +110,3 @@ Average sales per customer is better at 11.6k.
 
 
 
-Monthly Sales Growth
-Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
-
-Market Potential Analysis
-Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated coffee consumer
